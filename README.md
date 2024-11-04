@@ -16,4 +16,3 @@ Métodos e Técnicas de Análise de Dados
 
 # Fontes
 https://www.sns.gov.pt/transparencia/
-https://www.ine.pt/xportal/xmain?xpid=INE&xpgid=ine_main
